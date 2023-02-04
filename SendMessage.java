@@ -1,4 +1,4 @@
-// SEND message from server to client
+// Send message from server to client
 //Server
 import java.io.*;
 import java.net.*;
