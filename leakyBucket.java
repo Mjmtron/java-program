@@ -1,10 +1,6 @@
-// //(12)program Leaky bucket
-// The leaky bucket algorithm is a simple flow control algorithm that regulates the rate at which data is transmitted or processed. It is used in computer networks, 
-// operating systems, and other systems to prevent overloading and ensure the stability of the system.
+//  Leaky bucket
 // The algorithm works by using a metaphor of a "leaky bucket" where incoming data is added to the bucket and data is drained from the bucket at a regulated rate. 
-// If the incoming data rate is higher than the regulated drain rate, the data builds up in the bucket, and the algorithm discards excess data to prevent overflow.
-// The leaky bucket algorithm is a simple and efficient way to regulate the flow of data in a system and maintain stability, 
-// even under heavy loads. It is widely used in telecommunications, computer networks, and other systems where data flow control is critical.
+// If the incoming data rate is higher than the regulated drain rate, the data builds up in the bucket, and the algorithm discards excess data to prevent overflow
 import java.util.Scanner;
 
 public class LeakyBucket { 	
