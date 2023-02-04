@@ -1,4 +1,5 @@
-
+// The Bellman-Ford algorithm is a graph algorithm used to find the shortest path between a source vertex and all other vertices in a weighted graph. 
+// Unlike Dijkstra's algorithm, which only works with graphs where the edge weights are non-negative, the Bellman-Ford algorithm can handle graphs with negative edge weights.
 import java.util.Scanner;
 
 public class BellmanFord {
