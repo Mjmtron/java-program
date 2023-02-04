@@ -76,3 +76,19 @@ public class rsa {
 		return; 
 	}
 }
+/*OUTPUT
+Enter the Message tobe encrypted:
+yo man
+Enter value of p and q
+
+11
+7
+
+Encrypted message
+
+53?71§-1_62?1a42?
+
+Decrypted message
+ 
+yo man
+*/
